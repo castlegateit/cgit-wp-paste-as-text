@@ -1,0 +1,8 @@
+{
+    "name": "castlegate/cgit-wp-paste-as-text",
+    "autoload": {
+        "psr-4": {
+            "Castlegate\\PasteAsText\\": "classes"
+        }
+    }
+}
